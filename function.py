@@ -110,7 +110,7 @@ sample(x1=200, x2=300)
 print([l1, l2, l3])
 
 #
-# WA lambda fuction to calculate cub of a number
+# WA lambda fuction to calculate cube of a number
 c = lambda x : x ** 3
 cube = c(9)
 print('cube of a number is', cube)
