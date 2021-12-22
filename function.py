@@ -2,7 +2,7 @@
 =====================================
 name = ['pratik','rohit','pradeep','amol']
 # print([word[0] for word in name])
-# i want to initialize only worg starting with 'p':
+#i want to initialize only worg starting with 'p':
 print([word[0] for word in name if word.startswith('p')])
 ========================================
 n1 = [10, 20, 30, 40]
@@ -21,7 +21,7 @@ for i in range(1, 5):
     b += i
     print(b)
 ==============================================
-# WAP to execute dic with number as key and value as square od that number from range 1 to 10.
+# WAP to execute dic with number as key and value as square od that number from range 1 TO 10
 # expected output is : { (1: 1), (2:4),......}
 print({i: i**2 for i in range(1, 11)})
 ====================================================
