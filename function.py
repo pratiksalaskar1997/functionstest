@@ -1,9 +1,5 @@
 
-=====================================
-name = ['pratik','rohit','pradeep','amol']
-# print([word[0] for word in name])
-#i want to initialize only worg starting with 'p':
-print([word[0] for word in name if word.startswith('p')])
+
 ========================================
 n1 = [10, 20, 30, 40]
 n2 = [1, 4, 20, 30]
